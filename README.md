@@ -3,7 +3,8 @@ Japanese can't read this font (funny project)<br>
 <br>
 <br>
 look's like japanese english font(ttf)<br>
-![alt tag](https://raw.githubusercontent.com/flashscope/JAPANESE-CANT-READ-FONT/master/sample/sample_v2.png)
+![alt tag](https://raw.githubusercontent.com/flashscope/JAPANESE-CANT-READ-FONT/master/sample/sample_long_v2.png)<br>
+![alt tag](https://raw.githubusercontent.com/flashscope/JAPANESE-CANT-READ-FONT/master/sample/sample_v2.png)<br>
 <br>
 <br>
 <br>
